@@ -1,0 +1,33 @@
+body{
+    background-color: #eee;
+    margin: 0;
+}
+ 
+header{
+    background-color: rgb(202, 65, 65);
+    color: #eee;
+    text-align: center;
+    padding: 16px;
+}
+ 
+header a{
+    background-color: #aa1b1b;
+    text-decoration: none;
+    color: #fffcfc;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 2s ease;
+    }
+    header a:hover{
+        background-color: #df0000;
+    }
+ 
+input{
+    text-align: center;
+    padding: 6px;
+    border: 1px solid  #ff1414;
+    border-radius: 4px;
+}
+.imagem-container{
+    padding: 5px;
+}
